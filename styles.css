@@ -1,0 +1,33 @@
+h2 {
+    text-align: center;
+    padding: 10px;
+    width: 500px;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: maroon;
+    border-width: 5px;
+    box-shadow: 0 0 15px white;
+    margin: auto;
+    margin-bottom: 15px;
+    font-family: cooper black;
+    background-color: #FFFFFF;
+}
+
+#information {
+    text-align: justify;
+    padding: 8px;
+    width: 1000px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: maroon;
+    border-width: 5px;
+    box-shadow: 0 0 15px white;
+    margin: auto;
+    margin-top: 5px;
+    font-family: cooper black;
+    background-color: #FFFFFF;
+}
+
+body {
+    background: url(background.jpg);
+}
